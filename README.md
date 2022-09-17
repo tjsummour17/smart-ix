@@ -38,5 +38,5 @@ flutter run
 ![This is an image](https://github.com/tjsummour17/smart-ix/blob/main/assets/qr/frame-3.png)
 
 ### 4. Play with seetings:
-- also you can Play with settings here:
+- Also you can play with settings here:
 ![This is an image](https://github.com/tjsummour17/smart-ix/blob/main/assets/screenshots/settings.jpeg)
