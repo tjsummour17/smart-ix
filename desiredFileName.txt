@@ -1,16 +1,1 @@
-{
-  "ar": [
-    "home",
-    "profile",
-    "editProfile",
-    "enableWeather",
-    "news",
-    "update",
-    "accountUpdatedSuccessfully",
-    "invalidBarcode",
-    "thereAreNoSignedDevices",
-    "temperature",
-    "deleteDevice",
-    "deviceName"
-  ]
-}
+{}

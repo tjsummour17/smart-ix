@@ -1,5 +1,5 @@
 {
-  "appName": "RiverPod",
+  "appName": "Smart-iX",
   "appDescription": "شكراً لإتاحة الفرصة لي لإثبات نفسي لكم وآمل أن يعجبكم عملي في هذه الإختبار",
   "search": "بحث",
   "settings": "الإعدادات",
@@ -19,5 +19,16 @@
   "createAccount": "إنشاء حساب",
   "dontHaveAccount": "ليس لديك حساب؟ أنشىء واحداً الآن",
   "alreadyHaveAccount": "لديك حساب؟ يرجى تسجيل الدخول",
-  "favorite": "المفضلة"
+  "home": "الرئيسية",
+  "profile": "حسابي",
+  "editProfile": "تعديل حسابي",
+  "enableWeather": "تفعيل الطقس",
+  "news": "الأخبار",
+  "update": "تحديث",
+  "accountUpdatedSuccessfully": "تم تحديث الحساب",
+  "invalidBarcode": "الرمز غير صالح",
+  "thereAreNoSignedDevices": "ليس هنالك اي جهاز مسجل",
+  "temperature": "درجة الحرارة",
+  "deleteDevice": "حذف الجهاز",
+  "deviceName": "اسم الجهاز"
 }

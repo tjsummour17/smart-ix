@@ -1,7 +1,6 @@
 {
   "appName": "Smart-iX",
   "appDescription": "Thank you for allowing me to prove myself to you and I hope you like my work on this assignment",
-  "search": "Search",
   "settings": "Settings",
   "language": "Language",
   "theme": "Theme",
@@ -19,7 +18,6 @@
   "createAccount": "Create Account",
   "dontHaveAccount": "Don't have account? please create you account now",
   "alreadyHaveAccount": "Already have account? please login to your account",
-  "favorite": "favorites",
   "home": "Home",
   "profile": "Profile",
   "editProfile": "Edit Profile",
