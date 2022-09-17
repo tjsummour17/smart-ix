@@ -1,0 +1,23 @@
+{
+  "appName": "RiverPod",
+  "appDescription": "شكراً لإتاحة الفرصة لي لإثبات نفسي لكم وآمل أن يعجبكم عملي في هذه الإختبار",
+  "search": "بحث",
+  "settings": "الإعدادات",
+  "language": "اللغة",
+  "theme": "المظهر",
+  "cancel": "إلغاء",
+  "pleaseSelectLanguage": "يرجى اختيار اللغة",
+  "system": "الإفتراضي",
+  "light": "فاتح",
+  "dark": "غامق",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة السر",
+  "fullName": "الاسم الكامل",
+  "phone": "رقم الهاتف",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "createAccount": "إنشاء حساب",
+  "dontHaveAccount": "ليس لديك حساب؟ أنشىء واحداً الآن",
+  "alreadyHaveAccount": "لديك حساب؟ يرجى تسجيل الدخول",
+  "favorite": "المفضلة"
+}

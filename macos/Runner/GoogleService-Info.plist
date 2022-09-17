@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>188895466760-qtb1inklk4mcb5gtckcvnme6d2qaikkj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.188895466760-qtb1inklk4mcb5gtckcvnme6d2qaikkj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>188895466760-1l510646g7ldmlmhn8e0hbd86k6uv6qs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqO7jR_C4gxcVzuauqnwqzIfTcmOMWjK0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>188895466760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartix.smartIx</string>
+	<key>PROJECT_ID</key>
+	<string>smart-ix</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-ix.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:188895466760:ios:c5255fda661e79b881c8bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-ix-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

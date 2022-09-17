@@ -1,0 +1,29 @@
+rules_version = '2';
+service cloud.firestore {
+    match /databases/{database}/documents {
+
+        function isAuthorized() {
+            return request.auth != null;
+        }
+        function isMe(userId) {
+            return isAuthorized() && request.auth.uid == userId;
+        }
+
+        match /users/{userId} {
+            allow read: if isAuthorized();
+            allow write: if isAuthorized();
+            allow delete: if isMe(userId);
+
+            match /devices/{deviceId} {
+                allow read: if isMe(userId);
+                allow write: if isMe(userId);
+                allow delete: if isMe(userId);
+            }
+            match /services {
+                allow read: if isMe(userId);
+                allow write: if isMe(userId);
+                allow delete: if isMe(userId);
+            }
+        }
+    }
+}

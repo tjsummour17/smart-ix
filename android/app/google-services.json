@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "188895466760",
+    "firebase_url": "https://smart-ix-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smart-ix",
+    "storage_bucket": "smart-ix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188895466760:android:6ebad6d0f52b92f781c8bd",
+        "android_client_info": {
+          "package_name": "com.smart_ix.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188895466760-1l510646g7ldmlmhn8e0hbd86k6uv6qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_ix.app",
+            "certificate_hash": "abeef062a01dddc69694a1a70264a0287b669dbf"
+          }
+        },
+        {
+          "client_id": "188895466760-5uhhf6dou3gkftjdjrca13a8mdq7jgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoz_O8ILAMeHS6rjRSvWiZG90vm-NHCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188895466760-5uhhf6dou3gkftjdjrca13a8mdq7jgon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188895466760-qtb1inklk4mcb5gtckcvnme6d2qaikkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartix.smartIx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188895466760:android:ebf6767005f104ad81c8bd",
+        "android_client_info": {
+          "package_name": "com.smart_ix.smart_ix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188895466760-5uhhf6dou3gkftjdjrca13a8mdq7jgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoz_O8ILAMeHS6rjRSvWiZG90vm-NHCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188895466760-5uhhf6dou3gkftjdjrca13a8mdq7jgon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188895466760-qtb1inklk4mcb5gtckcvnme6d2qaikkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartix.smartIx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
